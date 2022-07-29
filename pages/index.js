@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", init);
 
-const modelId = "cHNF6PcUKCd";
+const modelId = "XBytMbwKxpG";
 
 const apiHost = "my.matterport.com";
 const secureBtn = document.querySelector(".btn-secure");
